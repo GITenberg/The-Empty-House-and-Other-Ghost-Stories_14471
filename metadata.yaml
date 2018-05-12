@@ -1,0 +1,34 @@
+_repo: The-Empty-House-and-Other-Ghost-Stories_14471
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blackwood, Algernon
+    birthdate: 1869
+    deathdate: 1951
+    gutenberg_agent_id: '1370'
+    url: http://www.gutenberg.org/2009/agents/1370
+    wikipedia: http://en.wikipedia.org/wiki/Algernon_Blackwood
+description: 'Title; Contents; The Empty House; A Haunted Island; A Case of Eavesdropping;
+  Keeping His Promise; With Intent to Steal; The Wood of the Dead; Smith: An Episode
+  in a Lodging-House; A Suspicious Gift; The Strange Adventures of a Private Secretary
+  in New York; Skeleton Lake: An Episode in Camp.'
+gutenberg_issued: '2004-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14471'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Ghost stories, English'
+tableOfContents: 'The empty house -- A haunted island -- A case of eavesdropping --
+  Keeping his promise -- With intent to steal -- The wood of the dead -- Smith: an
+  episode in a lodging-house -- A suspicious gift -- The strange adventures of a private
+  secretary in New York -- Skeleton Lake: an episode in camp.'
+title: The Empty House and Other Ghost Stories
+url: http://www.gutenberg.org/ebooks/14471
